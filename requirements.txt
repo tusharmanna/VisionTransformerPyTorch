@@ -1,0 +1,13 @@
+seaborn
+matplotlib
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+pytorch-lightning   
+pandas
+numpy
+wandb
+requests
+Image
